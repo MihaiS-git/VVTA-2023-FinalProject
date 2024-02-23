@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="NonValid Credentials Login Feature" skipped="0" tests="5" time="8.21" timestamp="2023-11-06 11:57:50"><testcase name="Login with bad credentials"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="NonValid Credentials Login Feature" skipped="0" tests="5" time="8.76" timestamp="2023-11-23 07:41:01"><testcase name="Login with bad credentials"/></testsuite>
